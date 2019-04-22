@@ -1,0 +1,29 @@
+body {
+    min-width: 100%;
+    min-height: 100%;
+}
+.wrapper {
+    min-width: 100%;
+    min-height: 100%;
+    
+}
+button {
+  background-color: red;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transition: all 200ms ease;
+  -moz-transition: all 200ms ease;
+  -ms-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+body,html {
+    height: 100%;
+}
+
